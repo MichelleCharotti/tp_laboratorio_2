@@ -1,0 +1,10 @@
+C:\Users\M.M\Documents\Visual Studio 2015\Projects\Charotti.Michelle.2A\Entidades1\bin\Debug\Entidades1.dll
+C:\Users\M.M\Documents\Visual Studio 2015\Projects\Charotti.Michelle.2A\Entidades1\bin\Debug\Entidades1.pdb
+C:\Users\M.M\Documents\Visual Studio 2015\Projects\Charotti.Michelle.2A\Entidades1\obj\Debug\Entidades1.dll
+C:\Users\M.M\Documents\Visual Studio 2015\Projects\Charotti.Michelle.2A\Entidades1\obj\Debug\Entidades1.pdb
+C:\Users\M.M\Documents\Visual Studio 2015\Projects\Charotti.Michelle.2A\Entidades1\obj\Debug\Entidades1.csprojResolveAssemblyReference.cache
+C:\Users\M.M\Documents\Charotti.Michelle.2A\Entidades1\bin\Debug\Entidades1.dll
+C:\Users\M.M\Documents\Charotti.Michelle.2A\Entidades1\bin\Debug\Entidades1.pdb
+C:\Users\M.M\Documents\Charotti.Michelle.2A\Entidades1\obj\Debug\Entidades1.csprojResolveAssemblyReference.cache
+C:\Users\M.M\Documents\Charotti.Michelle.2A\Entidades1\obj\Debug\Entidades1.dll
+C:\Users\M.M\Documents\Charotti.Michelle.2A\Entidades1\obj\Debug\Entidades1.pdb

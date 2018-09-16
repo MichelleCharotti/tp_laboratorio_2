@@ -1,0 +1,22 @@
+C:\Users\M.M\Documents\Visual Studio 2015\Projects\Charotti.Michelle.2A\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\M.M\Documents\Visual Studio 2015\Projects\Charotti.Michelle.2A\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\M.M\Documents\Visual Studio 2015\Projects\Charotti.Michelle.2A\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\M.M\Documents\Visual Studio 2015\Projects\Charotti.Michelle.2A\MiCalculadora\obj\Debug\MiCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\M.M\Documents\Visual Studio 2015\Projects\Charotti.Michelle.2A\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\M.M\Documents\Visual Studio 2015\Projects\Charotti.Michelle.2A\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.Cache
+C:\Users\M.M\Documents\Visual Studio 2015\Projects\Charotti.Michelle.2A\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\M.M\Documents\Visual Studio 2015\Projects\Charotti.Michelle.2A\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\M.M\Documents\Visual Studio 2015\Projects\Charotti.Michelle.2A\MiCalculadora\bin\Debug\Entidades1.dll
+C:\Users\M.M\Documents\Visual Studio 2015\Projects\Charotti.Michelle.2A\MiCalculadora\bin\Debug\Entidades1.pdb
+C:\Users\M.M\Documents\Visual Studio 2015\Projects\Charotti.Michelle.2A\MiCalculadora\obj\Debug\MiCalculadora.Form1.resources
+C:\Users\M.M\Documents\Charotti.Michelle.2A\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\M.M\Documents\Charotti.Michelle.2A\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\M.M\Documents\Charotti.Michelle.2A\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\M.M\Documents\Charotti.Michelle.2A\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\M.M\Documents\Charotti.Michelle.2A\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\M.M\Documents\Charotti.Michelle.2A\MiCalculadora\bin\Debug\Entidades1.dll
+C:\Users\M.M\Documents\Charotti.Michelle.2A\MiCalculadora\bin\Debug\Entidades1.pdb
+C:\Users\M.M\Documents\Charotti.Michelle.2A\MiCalculadora\obj\Debug\MiCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\M.M\Documents\Charotti.Michelle.2A\MiCalculadora\obj\Debug\MiCalculadora.Form1.resources
+C:\Users\M.M\Documents\Charotti.Michelle.2A\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\M.M\Documents\Charotti.Michelle.2A\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.Cache
