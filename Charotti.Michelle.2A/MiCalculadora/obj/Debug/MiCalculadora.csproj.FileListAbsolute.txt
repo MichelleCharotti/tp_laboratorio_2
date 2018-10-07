@@ -20,3 +20,6 @@ C:\Users\M.M\Documents\Charotti.Michelle.2A\MiCalculadora\obj\Debug\MiCalculador
 C:\Users\M.M\Documents\Charotti.Michelle.2A\MiCalculadora\obj\Debug\MiCalculadora.Form1.resources
 C:\Users\M.M\Documents\Charotti.Michelle.2A\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
 C:\Users\M.M\Documents\Charotti.Michelle.2A\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.Cache
+C:\Users\M.M\Documents\GitHub\tp_laboratorio_2\Charotti.Michelle.2A\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\M.M\Documents\GitHub\tp_laboratorio_2\Charotti.Michelle.2A\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\M.M\Documents\GitHub\tp_laboratorio_2\Charotti.Michelle.2A\MiCalculadora\obj\Debug\MiCalculadora.pdb
