@@ -6,17 +6,20 @@ using System.Threading.Tasks;
 
 namespace Entidades_2018
 {
+    
     /// <summary>
     /// No podrá tener clases heredadas.
     /// </summary>
     public sealed class Changuito
     {
-       private List<Producto> _productos;
-       private int _espacioDisponible;
         public enum ETipo
         {
             Dulce, Leche, Snacks, Todos
         }
+        #region atributos
+        private List<Producto> _productos;
+        private int _espacioDisponible;
+        #endregion
 
         #region "Constructores"
         private Changuito()
@@ -53,7 +56,7 @@ namespace Entidades_2018
                     case ETipo.Snacks:
                         if(v is Snacks)
                         {
-sb.AppendLine(((Snacks)v).Mostrar());
+                            sb.AppendLine(((Snacks)v).Mostrar());
                         }
                         
                         break;
@@ -89,7 +92,7 @@ sb.AppendLine(((Snacks)v).Mostrar());
         }
         #endregion
 
-        #region "Sobrecargas"
+        #region Sobrecargas y operadores
         /// <summary>
         /// Muestro el Changuito y TODOS los Productos
         /// </summary>
@@ -98,8 +101,7 @@ sb.AppendLine(((Snacks)v).Mostrar());
         {
             return Changuito.Mostrar(this, ETipo.Todos);
         }
-        #endregion
-        #region "Operadores"
+
         /// <summary>
         /// Agregará un elemento a la lista
         /// </summary>

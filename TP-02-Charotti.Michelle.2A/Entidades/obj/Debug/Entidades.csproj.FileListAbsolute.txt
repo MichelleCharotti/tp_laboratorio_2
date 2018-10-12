@@ -16,3 +16,8 @@ C:\Users\M.M\Documents\UTN\progLab2\TP-02\Entidades\bin\Debug\Entidades.pdb
 C:\Users\M.M\Documents\UTN\progLab2\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
 C:\Users\M.M\Documents\UTN\progLab2\TP-02\Entidades\obj\Debug\Entidades.dll
 C:\Users\M.M\Documents\UTN\progLab2\TP-02\Entidades\obj\Debug\Entidades.pdb
+C:\Users\M.M\Documents\GitHub\tp_laboratorio_2\TP-02-Charotti.Michelle.2A\Entidades\bin\Debug\Entidades.dll
+C:\Users\M.M\Documents\GitHub\tp_laboratorio_2\TP-02-Charotti.Michelle.2A\Entidades\bin\Debug\Entidades.pdb
+C:\Users\M.M\Documents\GitHub\tp_laboratorio_2\TP-02-Charotti.Michelle.2A\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\M.M\Documents\GitHub\tp_laboratorio_2\TP-02-Charotti.Michelle.2A\Entidades\obj\Debug\Entidades.dll
+C:\Users\M.M\Documents\GitHub\tp_laboratorio_2\TP-02-Charotti.Michelle.2A\Entidades\obj\Debug\Entidades.pdb

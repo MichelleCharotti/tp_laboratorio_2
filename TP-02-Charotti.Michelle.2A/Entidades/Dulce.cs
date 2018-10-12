@@ -8,6 +8,7 @@ namespace Entidades_2018
 {
     public class Dulce : Producto
     {
+        #region propiedades
         /// <summary>
         /// Los dulces tienen 80 calorías
         /// </summary>
@@ -18,11 +19,13 @@ namespace Entidades_2018
                 return 80;
             }
         }
-
+        #endregion
+        #region constructores
         public Dulce(EMarca marca, string patente, ConsoleColor color):base(patente,marca,color)
         {
-        } 
-
+        }
+        #endregion
+        #region metodos
         public override sealed string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
@@ -35,5 +38,6 @@ namespace Entidades_2018
 
             return sb.ToString();
         }
+        #endregion
     }
 }

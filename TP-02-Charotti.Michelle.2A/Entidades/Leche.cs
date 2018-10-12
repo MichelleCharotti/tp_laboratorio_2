@@ -8,11 +8,28 @@ using System.Drawing;
 
 namespace Entidades_2018
 {
+    
+
    public class Leche : Producto
     {
         public enum ETipo { Entera, Descremada }
+        #region atributos
         private ETipo _tipo;
-
+        #endregion
+       
+        #region propiedades
+        /// <summary>
+        /// Las leches tienen 20 calorías
+        /// </summary>
+        protected override short CantidadCalorias
+        {
+            get
+            {
+                return 20;
+            }
+        }
+        #endregion
+        #region constructores
         /// <summary>
         /// Por defecto, TIPO será ENTERA
         /// </summary>
@@ -23,22 +40,14 @@ namespace Entidades_2018
         {
             this._tipo = ETipo.Entera;
         }
-    public Leche(EMarca marca, string patente, ConsoleColor color,ETipo tipo):this(marca,patente,color)
-    {
-            this._tipo = tipo;
-    }
-
-    /// <summary>
-    /// Las leches tienen 20 calorías
-    /// </summary>
-    protected override short CantidadCalorias
+        public Leche(EMarca marca, string patente, ConsoleColor color,ETipo tipo):this(marca,patente,color)
         {
-            get
-            {
-                return 20;
-            }
+            this._tipo = tipo;
         }
-    
+        #endregion
+
+
+        #region metodos
         public override sealed string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
@@ -52,5 +61,6 @@ namespace Entidades_2018
 
             return sb.ToString();
         }
+        #endregion
     }
 }
