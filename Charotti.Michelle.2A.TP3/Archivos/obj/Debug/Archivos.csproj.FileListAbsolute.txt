@@ -1,0 +1,14 @@
+C:\Users\M.M\Documents\Visual Studio 2015\Projects\Charotti.Michelle.2A.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\M.M\Documents\Visual Studio 2015\Projects\Charotti.Michelle.2A.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\M.M\Documents\Visual Studio 2015\Projects\Charotti.Michelle.2A.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\M.M\Documents\Visual Studio 2015\Projects\Charotti.Michelle.2A.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\M.M\Documents\Visual Studio 2015\Projects\Charotti.Michelle.2A.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\M.M\Documents\Visual Studio 2015\Projects\Charotti.Michelle.2A.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\M.M\Documents\Visual Studio 2015\Projects\Charotti.Michelle.2A.TP3\Archivos\obj\Debug\Archivos.pdb
+C:\Users\M.M\Documents\GitHub\tp_laboratorio_2\Charotti.Michelle.2A.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\M.M\Documents\GitHub\tp_laboratorio_2\Charotti.Michelle.2A.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\M.M\Documents\GitHub\tp_laboratorio_2\Charotti.Michelle.2A.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\M.M\Documents\GitHub\tp_laboratorio_2\Charotti.Michelle.2A.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\M.M\Documents\GitHub\tp_laboratorio_2\Charotti.Michelle.2A.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\M.M\Documents\GitHub\tp_laboratorio_2\Charotti.Michelle.2A.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\M.M\Documents\GitHub\tp_laboratorio_2\Charotti.Michelle.2A.TP3\Archivos\obj\Debug\Archivos.pdb
