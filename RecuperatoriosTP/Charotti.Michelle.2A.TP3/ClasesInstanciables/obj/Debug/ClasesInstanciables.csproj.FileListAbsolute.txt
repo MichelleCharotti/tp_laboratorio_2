@@ -1,0 +1,13 @@
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csprojAssemblyReference.cache
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csproj.CoreCompileInputs.cache
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.dll
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.pdb
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP3\ClasesInstanciables\bin\Debug\Archivos.dll
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP3\ClasesInstanciables\bin\Debug\ClasesAbstractas.dll
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP3\ClasesInstanciables\bin\Debug\Excepciones.dll
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP3\ClasesInstanciables\bin\Debug\Archivos.pdb
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP3\ClasesInstanciables\bin\Debug\ClasesAbstractas.pdb
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP3\ClasesInstanciables\bin\Debug\Excepciones.pdb
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csproj.CopyComplete
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.dll
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.pdb

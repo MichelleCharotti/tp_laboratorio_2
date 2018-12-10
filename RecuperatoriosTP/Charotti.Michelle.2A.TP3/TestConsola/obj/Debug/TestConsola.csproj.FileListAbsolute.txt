@@ -1,0 +1,16 @@
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP3\TestConsola\obj\Debug\TestConsola.csproj.CoreCompileInputs.cache
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP3\TestConsola\bin\Debug\TestConsola.exe.config
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP3\TestConsola\bin\Debug\TestConsola.exe
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP3\TestConsola\bin\Debug\TestConsola.pdb
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP3\TestConsola\bin\Debug\ClasesAbstractas.dll
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP3\TestConsola\bin\Debug\ClasesInstanciables.dll
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP3\TestConsola\bin\Debug\Excepciones.dll
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP3\TestConsola\bin\Debug\Archivos.dll
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP3\TestConsola\bin\Debug\ClasesAbstractas.pdb
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP3\TestConsola\bin\Debug\ClasesInstanciables.pdb
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP3\TestConsola\bin\Debug\Excepciones.pdb
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP3\TestConsola\bin\Debug\Archivos.pdb
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP3\TestConsola\obj\Debug\TestConsola.csprojAssemblyReference.cache
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP3\TestConsola\obj\Debug\TestConsola.csproj.CopyComplete
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP3\TestConsola\obj\Debug\TestConsola.exe
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP3\TestConsola\obj\Debug\TestConsola.pdb

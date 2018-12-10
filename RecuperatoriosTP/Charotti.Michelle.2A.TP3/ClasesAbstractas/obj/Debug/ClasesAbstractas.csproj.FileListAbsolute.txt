@@ -1,0 +1,9 @@
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.csprojAssemblyReference.cache
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.dll
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.pdb
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP3\ClasesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP3\ClasesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.csproj.CopyComplete
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.dll
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.pdb
